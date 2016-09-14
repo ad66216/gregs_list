@@ -1,0 +1,123 @@
+header {
+	position: fixed;
+	left: 0;
+	right: 0;
+	top: 0;
+	background-color: #EEEEEE;
+}
+.top-nav-list {
+	position: absolute;
+	top: 0px;
+	right: 10px;
+}
+.top-nav-link {
+	padding-right: 30px;
+	font-size: 20px;
+}
+.top-nav-header h1 {
+	padding-left: 20px;
+	font-size: 20px;
+}
+
+
+/*Start of Search Section*/
+.search-section {
+	padding-top: 100px;
+	padding-left: 100px;
+}
+input {
+	width: 400px;
+	height: 30px;
+	border-radius: 5px;
+	font-size: 16px;
+	color: #AAAAAA;
+	border: 1px solid grey;
+	padding-left: 15px;
+}
+.magnify {
+	height: 32px;
+	width: 32px;
+	border: 1px solid grey;
+	border-radius: 5px;
+	position: relative;
+	top: 11px;
+}
+.search-box {
+	display: inline-block;
+}
+
+
+/*Start of the page link section*/
+.page-link.mid {
+	border-left: 0px; solid black;
+	border-right: 0px; solid black;
+	border-radius: 0px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.page-link {
+	border: 1px solid #AAAAAA;;
+	padding: 12px;
+	border-radius: 5px;
+}
+.page-link.prev {
+	border-top-right-radius: 0px;
+	border-bottom-right-radius: 0px;
+}
+.page-link.next {
+	border-top-left-radius: 0px;
+	border-bottom-left-radius: 0px;
+}
+
+.results-section {
+	padding-top: 30px;
+	padding-left: 100px;
+	/*margin: 300px;*/
+}
+.job-info {
+	font-size: 19px;
+	color: #AAAAAA;
+}
+.job-desc {
+	font-size: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	color: blue;
+	font-weight: bold;
+}
+a {
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
